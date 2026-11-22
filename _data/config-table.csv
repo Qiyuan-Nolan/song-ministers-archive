@@ -1,5 +1,6 @@
 field,display_name
-title,Title
-date,Date
-description,Description
-subject,Subjects
+title,標題 Title
+biography,傳主 Biography
+juan,卷次 Chapter
+date,年代 Date
+description,提要 Description
