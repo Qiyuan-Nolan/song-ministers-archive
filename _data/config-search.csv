@@ -1,7 +1,9 @@
 field,index,display
 title,true,true
+biography,true,true
 date,true,true
-creator,true,false
 description,true,true
+summary_en,true,false
 subject,true,true
 location,true,false
+variant_note,true,false
