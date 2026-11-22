@@ -7,43 +7,28 @@
 ##########
 # URL VARIABLES [optional if using GitHub Pages!]
 #
-# url is site domain, full URL to the production location of your collection
-# on GitHub Pages follows the pattern username.github.io
-#url: https://collectionbuilder.github.io 
-# baseurl is path to location on the domain if necessary e.g. /digital/hjccc
-# on GitHub Pages it is your github repository's name prefixed with a /
-#baseurl: /collectionbuilder-gh 
+url: https://qiyuan-nolan.github.io
+baseurl: /song-ministers-archive
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/Qiyuan-Nolan/song-ministers-archive
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: 宋初四臣言行錄數字檔案
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Words and Deeds of Four Early Song Ministers · A Digital Archive of the Wuchao mingchen yanxing lu
 # description appears in meta tags and other locations
-# this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
-# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+description: "A bilingual digital archive of the biographies of Zhao Pu, Cao Bin, Dou Yi and Li Fang in Zhu Xi's Wuchao mingchen yanxing lu, from the Sibu congkan facsimile of the Song edition."
+# creator of the digital collection, to appear in meta tags
+author: Qiyuan-Nolan
 
 ##########
 # COLLECTION SETTINGS
 #
-# Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
-# Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
-
-##########
-# Site/Organization Branding 
-#   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-#
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# Use the filename of your CSV **without** the ".csv" extension
+metadata: song-ministers-metadata
 
 ##########
 # ROBOTS EXCLUDE
@@ -54,11 +39,6 @@ metadata: demo-metadata
 ##########
 # BUILD SETTINGS 
 #
-# Note: use environment variable on build command to include analytics
-# JEKYLL_ENV=production jekyll build
-# (this is done automatically by gh-pages build)
-#
-# ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md, CONTRIBUTING.md]
 # compress CSS output
 sass:
