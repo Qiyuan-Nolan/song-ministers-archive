@@ -1,5 +1,5 @@
 field,display_name,search
-date,Date,true
-creator,Creator,true
-subject,Subjects,true
-location,Location,true
+biography,傳主 Biography,true
+date,年代 Date,true
+subject,主題 Subjects,true
+location,地點 Location,true
