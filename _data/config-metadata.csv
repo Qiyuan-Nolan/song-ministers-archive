@@ -1,15 +1,23 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+title,標題 Title,
+biography,傳主 Biography,true
+juan,卷次 Chapter,true
+creator,編者 Compiler,
+date,年代 Date,
+description,提要 Description,
+summary_en,English Summary,
+subject,主題 Subjects,true
+location,地點 Location,true
+latitude,緯度 Latitude
+longitude,經度 Longitude
+place_confidence,定位把握 Location Confidence,
+cbdb_id,CBDB 編號 CBDB ID,
+collation,核對結果 Collation,
+variant_note,異文 Variants,
+source,出處 Source,
+identifier,影像編號 Image Identifier,,
+type,類型 Type,
+format,格式 Format,
+language,語言 Language,
+rights,授權 Rights,
+rightsstatement,授權聲明 Rights Statement,,true
