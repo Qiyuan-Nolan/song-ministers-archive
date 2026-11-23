@@ -1,72 +1,62 @@
 ---
 layout: page-narrow
-title: 三圖三問 Three Maps, Three Questions
+title: 通行本刪掉了什麼 What the Standard Edition Left Out
 ---
 
-# 三圖三問 · Three Maps, Three Questions
+# 通行本刪掉了什麼？
 
-本檔案收錄朱熹《五朝名臣言行錄》趙普、曹彬、竇儀、李昉四傳的宋本影像，底本為《四部叢刊》景印海鹽張氏涉園藏宋刊本，共56面。下面三幅地圖是編者為整理本所繪，每幅對應一條言行，也各自引出一個關於文本流傳的問題。
+**What the Standard Edition Left Out**
 
-This archive presents the Song-edition facsimile of four biographies (Zhao Pu, Cao Bin, Dou Yi and Li Fang) from Zhu Xi's *Wuchao mingchen yanxing lu*, 56 pages in all. Each of the three maps below, drawn for a modern annotated edition, belongs to one anecdote and opens one question about how the text has been transmitted.
+本檔案收錄朱熹《五朝名臣言行錄》趙普、曹彬、竇儀、李昉四傳的宋本影像，底本為《四部叢刊》景印海鹽張氏涉園藏宋刊本，共56面。把宋本與今日最常用的《四庫全書》本逐字比對後發現：四庫本少了約四成文字，而且刪得有規律。
+
+This archive presents the Song-edition facsimile of four biographies (Zhao Pu, Cao Bin, Dou Yi and Li Fang) from Zhu Xi's *Wuchao mingchen yanxing lu*, 56 pages in all. A character-by-character collation with the *Siku quanshu* edition, the version most readers use today, shows that the *Siku* text lacks about 40 per cent of the Song text, and that the cuts follow a pattern.
 
 <p><a class="btn btn-primary" href="{{ '/browse.html' | relative_url }}">瀏覽全部56面 Browse all 56 pages</a></p>
 
-## 一、杯酒釋兵權：數字文本可信嗎？
+## 一、四庫本少了什麼 What is missing
 
-**The Cup of Wine: can we trust the digital text?**
+| 傳 Biography | 宋本字數 Song chars | 四庫本缺 Missing | 比例 | 條數 Entries | 整條缺 Entries missing |
+| --- | --- | --- | --- | --- | --- |
+| 趙普 Zhao Pu | 3031 | 662 | 22% | 17 | 1 |
+| 曹彬 Cao Bin | 3432 | 1300 | 38% | 19 | 7 |
+| 竇儀 Dou Yi | 1087 | 1087 | 100% | 10 | 10 |
+| 李昉 Li Fang | 707 | 297 | 42% | 8 | 2 |
+| 合計 Total | 8257 | 3346 | 41% | 54 | 20 |
 
-<img src="{{ '/assets/img/map1-cup-of-wine.jpg' | relative_url }}" alt="宋初潞州昭義、揚州淮南兩鎮與汴京位置圖" class="img-fluid my-3">
+曹彬傳19條中，有9條出自李宗諤所撰《曹彬行狀》；李宗諤是李昉之子。四庫本整條刪去其中6條，行狀文字只剩35%。其餘10條大多是北宋筆記中的故事，保留了73%，只有1條被整條刪去。被刪的多是行狀裏的頌揚之辭，例如「王和氣接物，煦如陽春」整段。
 
-> 太祖旣得天下，誅李筠、李重進，召趙普問曰：「天下自唐季以來，數十年間，帝王凡易十姓，兵革不息……」（〈趙普傳〉，出《涑水記聞》）
+Nine of Cao Bin's 19 entries come from a commemorative account by Li Zong'e, Li Fang's son. The *Siku* text deletes six of them and keeps only 35 per cent of their words, while the other ten entries, mostly anecdotes from Northern Song notebooks, keep 73 per cent.
 
-建隆元年（960），潞州昭義節度使李筠、揚州淮南節度使李重進先後起兵。地圖標出兩鎮與汴京的位置：叛亂來自北、南兩翼，這是趙普建議「稍奪其權，制其錢穀，收其精兵」的背景。
-
-In 960 two military governors rose against the new dynasty, at Luzhou in the north and Yangzhou in the south. Their positions frame Zhao Pu's advice to take power, revenue and troops away from the regional commanders.
-
-**發現 Finding**：維基文庫這四傳的56面錄文，全部由機器人帳號於2017年導入，此後無人校對；其中51字以圖片代替。「黃袍加汝之身」一句因「袍」是圖片，全文檢索搜不到。
-
-The Wikisource transcription of these 56 pages was imported by a bot in 2017 and has never been proofread. 51 characters are images, so the episode's most famous line, "the yellow robe placed upon you", cannot be found by full-text search.
-
-<p><a href="{{ '/item.html?id=zhaopu-p021' | relative_url }}">看宋本原頁 View the Song-edition page →</a></p>
-
-## 二、雪夜訪普：一句話走了多遠？
-
-**A Snowy Night: how far did one sentence travel?**
-
-<img src="{{ '/assets/img/map2-two-frontiers.jpg' | relative_url }}" alt="北漢夾在契丹、黨項之間的形勢圖" class="img-fluid my-3">
-
-> 普曰：「太原當西北二邊，使一舉而下，則二邊之患我獨當之。」（〈趙普傳〉，出《邵氏聞見錄》）
-
-太祖雪夜到趙普家，商議先攻北漢還是先下江南。地圖顯示北漢夾在契丹與黨項之間，正是趙普所說的「西北二邊」：先取太原，宋就要獨自面對兩邊的壓力。
-
-On a snowy night Taizu visited Zhao Pu to ask whether to attack Northern Han first. The map shows Northern Han wedged between the Khitan and the Tangut, the "two frontiers" of Zhao Pu's argument.
-
-**發現 Finding**：這句話一字不差地出現在維基文庫收錄的另外13種文獻中，包括《續資治通鑑長編》《東都事略》、修身書《自警編》《言行龜鑑》、元明之際的雜劇《宋太祖龍虎風雲會》，以及清代的《古今圖書集成》。
-
-The sentence recurs verbatim in 13 other works on Wikisource, from Song chronicles and conduct books to a Yuan–Ming play and Qing compilations.
-
-<p><a href="{{ '/item.html?id=zhaopu-p028' | relative_url }}">看宋本原頁 View the Song-edition page →</a></p>
-
-## 三、曹彬伐蜀：路線去哪了？
-
-**Cao Bin's Campaign: where did the route go?**
+## 二、曹彬伐蜀：被刪掉的路線 The route that disappeared
 
 <img src="{{ '/assets/img/map3-caobin-shu.jpg' | relative_url }}" alt="曹彬伐蜀路線圖：歸州、三會寨、巫山寨、夔州、遂州" class="img-fluid my-3">
 
-> 大舉伐蜀，詔劉光義充歸州路行營前軍副部署，以王爲都監。始破三會、巫山寨，次平夔州，又取遂州。時諸將皆欲屠城殺降……（〈曹彬傳〉，出《曹彬行狀》）
+宋本原文，<mark>標記部分</mark>為四庫本所無：
 
-乾德二年（964）宋分兩路伐後蜀，曹彬任東路都監，自歸州沿長江西上。地圖依宋本所記，畫出三會寨、巫山寨、夔州、遂州一線。
+> 大舉伐蜀，<mark>詔劉光義充歸州路行營前軍副部署，</mark>以王爲都監。<mark>始破三會、巫山寨，次平夔州，又取遂州。</mark>時諸將皆欲屠城殺降以逞威，唯王申禁戢之令，明勸賞之法……（〈曹彬傳〉，出《曹彬行狀》）
 
-In 964 the Song attacked Later Shu along two routes. Cao Bin served with the eastern army, which advanced up the Yangzi from Guizhou; the map follows the stages named in the Song edition.
+乾德二年（964）宋分兩路伐後蜀，曹彬任東路都監，自歸州沿長江西上。這幅地圖依宋本畫出三會寨、巫山寨、夔州、遂州一線。四庫本保留了曹彬禁止屠城殺降的道德評價，卻刪去了任命和路線上的全部地名：留下了教訓，丟掉了歷史。
 
-**發現 Finding**：《四庫全書》本此條作「大舉伐蜀以王為都監時諸將皆欲屠城殺降」，刪去了路線上的全部地名。這條路線只能依宋本重建。
-
-The *Siku quanshu* edition drops the clause naming the stages of the advance. The route can be reconstructed only from the Song edition.
+In 964 Cao Bin advanced up the Yangzi from Guizhou with the eastern army. The *Siku* text keeps the moral claim that he alone stopped the generals from massacring the surrendered, but drops his appointment and every place on the route. The map can only be drawn from the Song edition.
 
 <p><a href="{{ '/item.html?id=caobin-p044' | relative_url }}">看宋本原頁 View the Song-edition page →</a></p>
+
+## 三、宋初形勢 The early Song setting
+
+<img src="{{ '/assets/img/map1-cup-of-wine.jpg' | relative_url }}" alt="北宋、北漢與潞州昭義、揚州淮南兩鎮位置圖" class="img-fluid my-3">
+
+趙普小傳說他「從平上黨」。地圖標出北宋、北漢，以及建隆元年（960）先後起兵的昭義節度使李筠（潞州）和淮南節度使李重進（揚州）的位置。
+
+Zhao Pu's biography notes that he joined the campaign against Shangdang. The map shows the Northern Song, Northern Han, and the two military governors who rose in 960, at Luzhou and Yangzhou.
+
+<img src="{{ '/assets/img/map2-two-frontiers.jpg' | relative_url }}" alt="北漢夾在契丹、黨項之間的形勢圖" class="img-fluid my-3">
+
+趙普傳「雪夜訪普」一條：趙普勸太祖先下江南，理由是「太原當西北二邊」。地圖顯示北漢夾在契丹與黨項之間。
+
+In the "snowy night" entry Zhao Pu argues that Taiyuan "stands against both the western and northern frontiers"; the map shows Northern Han between the Khitan and the Tangut.
 
 ## 關於資料 About the data
 
 - 宋本影像：維基共享資源 [Sibu Congkan0268 第一冊](https://commons.wikimedia.org/wiki/File:Sibu_Congkan0268-%E6%9C%B1%E7%86%B9-%E4%BA%94%E6%9C%9D%E5%90%8D%E8%87%A3%E8%A8%80%E8%A1%8C%E9%8C%84-6-1.djvu)，公有領域。
-- 錄文、修訂紀錄與檢索結果：維基文庫，2026年11月22日查詢。
-- 局限：精確檢索只覆蓋維基文庫收錄的文獻，改寫過的引用不在其中；維基文庫的四庫本錄文同樣未經校對，相關結論以文淵閣《四庫全書》影像核對為準。
+- 方法：從維基文庫取得兩種版本的錄文，統一異體字後以最長公共子序列演算法逐字對齊；以每條末尾的出處小注為界分條。
+- 局限：兩種錄文都是機器匯入、未經校對（宋本錄文有51字為圖片），分條為自動切分，數字均為約數；結論以影像核對為準。資料查詢日期：2026年11月23日。
